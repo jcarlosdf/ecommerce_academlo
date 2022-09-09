@@ -47,4 +47,5 @@ function printFood(elementHTML, data) {
     elementHTML.innerHTML = html;
 }
 
+
 export { printFoodInCart, printFood, cart };
